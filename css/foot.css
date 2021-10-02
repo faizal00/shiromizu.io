@@ -1,0 +1,40 @@
+.footer{
+    padding: 3% 6%;
+}
+.loba{
+    width: 100%;
+}
+.ptm{
+    font-weight: bold;
+    color: #777;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.map{
+    color: #777;
+    line-height: 25px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+}
+.map:hover{
+    color: #333;
+    text-decoration: none;
+}
+.ex{
+    margin-left: 5%;
+}
+.epl{
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+.map1{
+    color: #777;
+    line-height: 35px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+}
+@media screen and (max-width:680px){
+    .per{
+        margin-left: 5%;
+    }
+}
